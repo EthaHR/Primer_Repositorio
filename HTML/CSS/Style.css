@@ -3,5 +3,15 @@
 }
 .parrafo1{
     font-family: 'Times New Roman', Times, serif;
-    color: darkgrey;
+    color: #000;
+}
+
+.nav{
+    font-weight: 100;
+}
+.title{
+    margin: 5px;
+    font-size: 50px;
+    text-align: center;
+    color: #f24;
 }
